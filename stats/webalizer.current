@@ -1,0 +1,1114 @@
+# Webalizer V2.23-08 Incremental Data - 11/06/2018 01:47:42
+2018 11 6 1 47 42
+5495 4078 245 23 13 86 62603320 5369 278 0
+7 23 1227 1 6
+1541 1131 12749012 72 1534 73
+191 48 1145123 51 180 50
+114 99 12808367 47 54 51
+951 580 7371165 50 934 51
+2060 1667 18435435 43 2049 46
+638 553 10094218 7 618 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+630 539 5484470 629
+37 30 4948766 17
+22 13 271570 21
+775 543 6304981 774
+781 544 5703691 778
+119 8 255380 118
+25 11 255486 21
+702 546 7965756 698
+597 575 11386760 563
+7 7 152709 7
+15 13 285743 15
+7 5 110423 7
+155 15 441936 147
+14 9 156551 11
+13 12 266346 11
+13 8 177880 13
+40 30 4976203 14
+25 14 295165 23
+12 11 241123 11
+12 9 177056 10
+22 16 333753 18
+1240 903 9943412 1234
+221 210 2332942 221
+11 7 135218 8
+0
+0
+0
+4078
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+155
+0
+0
+0
+1258
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/img/tshirt-back.png
+1 3 3257009838893773357 5237817 0 0
+/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2
+0 3 7939405678830515059 192432 0 0
+/phpmyadmin/
+0 3750 8242201315596512877 39196331 0 0
+/icons/apache_pb.gif
+1 1 4120291414980493312 0 0 0
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+0 4 7597699015211220992 283864 0 0
+/assets/js/grayscale.js
+0 4 1540951216 5180 0 0
+/assets/validator/lib/jquery.mockjax-2.2.1.js
+0 4 3345744813494054500 130236 0 0
+/assets/vendor/jquery-easing/jquery.easing.min.js
+0 4 30081616 10128 0 0
+/node_modules/socket.io/node_modules/socket.io-client/socket.io.js
+0 4 0 695864 0 0
+/assets/img/b1g.png
+1 1 0 22109 0 0
+/assets/validator/lib/jquery.form.js
+0 4 0 156944 0 0
+/assets/validator/lib/jquery.mockjax.js
+0 4 0 2460 0 0
+/assets/img/tshirt-front.png
+1 4 0 6983756 0 0
+/assets/css/grayscale.css
+0 5 0 28845 0 0
+/assets/vendor/fontawesome-free/css/all.min.css
+0 6 0 281580 0 0
+/assets/img/bg-masthead.jpg
+1 3 0 1325103 0 0
+/assets/validator/dist/jquery.validate.js
+0 4 0 194704 0 0
+/assets/img/b1gsl-logo.png
+1 3 0 17457 0 0
+/
+0 252 0 5191371 235 26
+/assets/js/jquery.mask.min.js
+0 4 0 32740 0 0
+/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2
+0 3 0 187416 0 0
+/assets/vendor/jquery/jquery.min.js
+0 3 0 260781 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css
+0 5 0 704680 0 0
+# End Of Table - urls
+# -sites- (monthly)
+pool-92-246-167-230.ptcomm.ru
+0 1 1 21783 1 1541342612
+/
+89.163.131.165
+0 2 2 0 2 1541395892
+/
+5.188.62.5
+0 1 1 21859 1 1541229898
+/
+176-196-207-138.goodline.info
+0 1 1 21783 1 1541048151
+/
+gw3.sd3.gpaas.net
+0 2 0 2260 1 1541372729
+-
+176.12.97.126
+0 1 1 21783 1 1541398575
+/
+103.90.205.203
+0 1 1 21783 1 1541062842
+/
+modemcable006.237-37-24.static.videotron.ca
+0 1 1 21783 1 1541309987
+/
+f3.64.3ca9.ip4.static.sl-reverse.com
+0 1 1 21783 1 1541094277
+/
+ec2-18-212-123-66.compute-1.amazonaws.com
+0 1 1 21783 1 1541429542
+/
+177-95-58-51.dsl.telesp.net.br
+0 1 1 21783 1 1541196651
+/
+103.220.24.46
+0 1 1 21783 1 1541158748
+/
+ubuntu16202198.aspadmin.net
+0 1 0 1130 1 1541133305
+-
+154.72.88.14
+0 1 1 21669 1 1541318517
+/
+177-102-130-81.dsl.telesp.net.br
+0 2 2 43566 1 1541393775
+/
+175.100.87.54
+0 1 1 21783 1 1541129668
+/
+planetlab5.net.in.tum.de
+0 2 2 0 2 1541078429
+/
+196.52.43.120
+0 1 1 21859 1 1541189097
+/
+88.251.23.234
+0 1 1 21783 1 1541264570
+/
+crawl-66-249-79-51.googlebot.com
+0 1 1 46930 0 0
+-
+host-198-167-223-52.resolv.to
+0 2 0 2260 2 1541387674
+-
+host239-155-dynamic.236-95-r.retail.telecomitalia.it
+0 1 1 21783 1 1541114840
+/
+39.98.54.25
+0 1 1 21935 1 1541442920
+/
+163-172-4-153.rev.poneytelecom.eu
+0 1 1 21859 1 1541064416
+/
+193.106.30.122
+0 3 3 65349 3 1541060779
+/
+180.191.231.234
+0 21 20 4747671 1 1541263778
+/
+carbon013.a.ahrefs.com
+0 1 1 21859 1 1541092673
+/
+138.36.188.22
+0 1 1 21783 1 1541338741
+/
+ec2-13-231-80-45.ap-northeast-1.compute.amazonaws.com
+0 1 1 21783 1 1541048169
+/
+researchscan21.comsys.rwth-aachen.de
+0 1 1 21935 1 1541338907
+/
+94.74.134.238
+0 2 2 43566 1 1541086395
+/
+180.191.239.99
+0 22 21 4769780 1 1541233781
+/
+5.234.116.217
+0 1 1 21783 1 1541454148
+/
+ded.vnserver.com
+0 6 6 0 6 1541439096
+/
+190-60-228-45.fila.net.py
+0 1 1 21859 1 1541326916
+/
+177-45-76-13.user.ajato.com.br
+0 1 1 21783 1 1541303059
+/
+mx-ll-14.207.137-11.dynamic.3bb.co.th
+0 1 1 21783 1 1541106297
+/
+cl73228.zumpnet.com.br
+0 1 1 21783 1 1541061944
+/
+27.54.53.233
+0 1 1 21859 1 1541316558
+/
+23.102.47.54
+0 1 1 21783 1 1541243840
+/
+201-1-90-138.dsl.telesp.net.br
+0 1 1 21783 1 1541231620
+/
+170-244-220-24.user.gwtelecom.psi.br
+0 1 1 21783 1 1541055782
+/
+staticline13623.toya.net.pl
+0 1 1 21859 1 1541281408
+/
+103.15.82.122
+0 1 1 21783 1 1541334916
+/
+109.94.115.237
+0 1 1 21783 1 1541149058
+/
+104.248.9.2
+0 1 1 0 0 0
+-
+138.97.144-107.gtidns.com.br
+0 1 1 21783 1 1541360583
+/
+dynamic-168-0-83-193.xingutelecom.com.br
+0 1 1 21783 1 1541321867
+/
+r167-60-117-83.dialup.adsl.anteldata.net.uy
+0 1 1 21783 1 1541033592
+/
+crawl-66-249-79-158.googlebot.com
+0 1 1 21935 1 1541169230
+/
+host22.cityonlinebd.net
+0 2 0 452 1 1541160794
+-
+84.53.192.138
+0 1 1 21783 1 1541381672
+/
+137.74.30.67
+0 1 0 347 1 1541138790
+/
+26.68.10.185.ro.ovo.sc
+0 1 0 226 1 1541305680
+/
+125.64.94.208
+0 1 1 21783 1 1541328373
+/
+group-ib.com
+0 1 1 21859 1 1541109045
+/
+70.24.153.190.net-uno.net
+0 1 1 21783 1 1541117544
+/
+c-67-172-229-35.hsd1.ut.comcast.net
+0 1 1 21859 1 1541101067
+/
+zg-1014b-27.stretchoid.com
+0 1 1 21783 1 1541074147
+/
+185.156.177.164
+0 2 1 22913 1 1541153654
+-
+scan-66.security.ipip.net
+0 1 1 21783 1 1541278175
+/
+parmesan.ug.activeminds.net
+0 1 1 21859 1 1541151550
+/
+researchscan19.comsys.rwth-aachen.de
+0 2 2 43870 2 1541240832
+/
+117.158.224.249
+0 1 0 1130 1 1541171714
+-
+crawl-66-249-79-81.googlebot.com
+0 3 2 45000 2 1541304448
+/
+60.191.38.77
+0 4 4 87132 4 1541444340
+/
+180.253.171.186
+0 1 1 21783 1 1541127358
+/
+139.199.104.191
+0 612 531 5302453 1 1541464058
+/phpmyadmin/
+179.97.7.192.pontenova.com.br
+0 1 1 21783 1 1541266437
+/
+ec2-54-215-174-213.us-west-1.compute.amazonaws.com
+0 1 1 21783 1 1541394257
+/
+177-198-121-221.user.vivozap.com.br
+0 2 2 43566 1 1541190130
+/
+170.82.21.129
+0 1 1 21783 1 1541046312
+/
+104.248.210.79
+0 1 1 21783 1 1541461052
+/
+host109-81-dynamic.117-80-r.retail.telecomitalia.it
+0 1 1 21783 1 1541386292
+/
+37.221.156.5
+0 1 1 21783 1 1541067635
+/
+92.46.121.94
+0 1 1 21783 1 1541068983
+/
+lizcat-ip108.106.76.103.ptr.liz.cat
+0 763 534 5498851 1 1541454185
+/phpmyadmin/
+49.0.36.190
+0 1 1 21783 1 1541079548
+/
+89.144.12.17
+0 1 1 21935 1 1541070335
+/
+38.100.21.69
+0 4 4 215570 1 1541365430
+/
+60.191.20.210
+0 1 1 21859 1 1541216261
+/
+d133.tycom.cz
+0 1 1 21783 1 1541176567
+/
+smtp.neda.gov.ph
+0 9 2 51628 1 1541349770
+/
+pool.luga.net.ua
+0 3 0 3390 1 1541045449
+-
+static-181-143-83-58.une.net.co
+0 1 1 21783 1 1541450597
+/
+zg-1014a-86.stretchoid.com
+0 1 1 21783 1 1541307726
+/
+131.196.56.2
+0 1 1 21783 1 1541036160
+/
+183.129.174.252
+0 2 1 21859 1 1541216872
+/
+c134-209.i06-2.onvol.net
+0 1 1 21783 1 1541158174
+/
+62-210-74-227.rev.poneytelecom.eu
+0 2 1 22913 1 1541126421
+-
+197.166.247.99
+0 1 1 21783 1 1541042734
+/
+177-139-12-215.dsl.telesp.net.br
+0 2 2 43566 1 1541292426
+/
+62-210-251-40.rev.poneytelecom.eu
+0 3 1 24119 1 1541453462
+-
+ip70.ip-54-36-150.eu
+0 1 0 1130 0 0
+-
+85.30.110.254
+0 1 1 21783 1 1541401666
+/
+27.115.124.5
+0 1 1 21859 1 1541093190
+/
+122.228.10.50
+0 2 2 43566 2 1541177517
+/
+152.155.36.191.vipturbo.com.br.155.36.191.in-addr.arpa
+0 1 1 21783 1 1541297653
+/
+191-0-71-74.host.telemar.net.br
+0 1 1 21783 1 1541057910
+/
+202.151.41.39
+0 762 533 5477130 1 1541048015
+/phpmyadmin/
+43.228.221.48
+0 1 1 21783 1 1541105273
+/
+carbon106.a.ahrefs.com
+0 1 1 21859 1 1541079238
+/
+200-168-89-179.dsl.telesp.net.br
+0 2 2 43566 1 1541317377
+/
+zg-1014a-31.stretchoid.com
+0 1 1 21783 1 1541287386
+/
+scan-09.shadowserver.org
+0 1 1 21783 1 1541265997
+/
+101-8.proveradio.com.br
+0 1 1 21783 1 1541447847
+/
+200-171-47-158.dsl.telesp.net.br
+0 2 2 43566 1 1541209440
+/
+123.200.2.194
+0 1 1 21783 1 1541219096
+/
+178-218-121-34.avk-wellcom.com
+0 1 1 21783 1 1541289331
+/
+103.78.219.33
+0 1 1 21783 1 1541283705
+/
+165.227.179.222
+0 1 1 21935 1 1541127831
+/
+106.75.85.103
+0 1 1 21783 1 1541047357
+/
+ec2-54-163-140-177.compute-1.amazonaws.com
+0 1 1 21783 1 1541037863
+/
+i577ba412.versanet.de
+0 1 0 226 0 0
+-
+110.235.193.80
+0 1 1 21783 1 1541162344
+/
+msnbot-207-46-13-172.search.msn.com
+0 1 1 21859 1 1541184786
+/
+crawl-66-249-79-155.googlebot.com
+0 2 1 22989 1 1541149388
+/
+scan-07.shadowserver.org
+0 2 2 43566 2 1541437123
+/
+ec2-18-203-220-160.eu-west-1.compute.amazonaws.com
+0 1 1 21859 1 1541055431
+/
+201-95-166-102.dsl.telesp.net.br
+0 2 2 43566 1 1541448596
+/
+193.112.9.146
+0 687 534 6020228 1 1541056217
+/phpmyadmin/
+crawl-66-249-79-58.googlebot.com
+0 3 1 24119 1 1541247394
+/
+host2-74-static.188-82-b.business.telecomitalia.it
+0 1 1 21783 1 1541326485
+/
+5.188.210.12
+0 1 0 1130 1 1541252992
+-
+crawl-66-249-79-137.googlebot.com
+0 2 2 43870 2 1541177640
+/
+mx.asfasad.ru
+0 1 1 22074 1 1541291720
+/
+135.34.182.58.starhub.net.sg
+0 1 1 21859 1 1541442578
+/
+190.183.210.114
+0 1 1 21783 1 1541048151
+/
+202.62.56.142
+0 1 1 21783 1 1541266446
+/
+scan-72.security.ipip.net
+0 2 2 43566 2 1541347035
+/
+34.170.42.186.static.anycast.cnt-grms.ec
+0 1 1 21783 1 1541338256
+/
+66.79.174.112
+0 763 534 6106218 1 1541302330
+/phpmyadmin/
+178-154-200-26.spider.yandex.com
+0 2 1 22989 1 1541397663
+/
+192.141.232.156
+0 1 1 21783 1 1541442795
+/
+228.36-169-95.eidsiva.net
+0 1 1 21859 1 1541278540
+/
+scan-27.security.ipip.net
+0 1 1 21783 1 1541398412
+/
+92.38.46.178
+0 1 1 21783 1 1541124607
+/
+87.107.73.74
+0 1 1 21783 1 1541333376
+/
+ns100530.ip-147-135-11.us
+0 1 1 21859 1 1541081381
+/
+ip180.ip-54-36-150.eu
+0 1 1 21859 1 1541052062
+/
+185.168.173.121
+0 1 1 21783 1 1541182940
+/
+zg-1014a-7.stretchoid.com
+0 1 1 21783 1 1541212534
+/
+dynamic-168-0-83-25.xingutelecom.com.br
+0 1 1 21783 1 1541441140
+/
+ip67.ip-54-36-150.eu
+0 1 0 1130 0 0
+-
+51.68.224.186.dinamic.csc.dipelnet.com.br
+0 1 1 21783 1 1541074260
+/
+45.55.43.96
+0 2 2 21859 1 1541082211
+/
+crawl-66-249-79-101.googlebot.com
+0 8 8 195198 2 1541272701
+/
+ec2-13-57-233-99.us-west-1.compute.amazonaws.com
+0 1 1 21935 1 1541273945
+/
+47.102.20.192
+0 1 1 21783 1 1541063685
+/
+108-166-89-168.static.cloud-ips.com
+0 109 0 122270 1 1541309286
+/
+pool-100-35-59-214.nwrknj.fios.verizon.net
+0 1 0 226 1 1541336918
+-
+crawl-66-249-79-226.googlebot.com
+0 1 0 1130 0 0
+-
+200-161-47-34.dsl.telesp.net.br
+0 1 1 21783 1 1541430209
+/
+41.193.202.238
+0 1 1 21783 1 1541270457
+/
+94.102.49.123
+0 10 0 10400 1 1541354378
+/
+private.spacetechnology.wiramaster.org
+0 7 0 7910 1 1541053841
+-
+scan-68.security.ipip.net
+0 1 1 21783 1 1541036614
+/
+177-188-201-6.dsl.telesp.net.br
+0 2 2 43566 1 1541345071
+/
+138.197.111.55
+0 1 1 21935 1 1541139262
+/
+185.50.56.8
+0 1 1 21783 1 1541088356
+/
+95-125-229-109.broadband.telenettv.ru
+0 1 1 21783 1 1541268158
+/
+193.106.30.98
+0 18 0 20340 18 1541452263
+-
+185.39.27.43
+0 1 1 21783 1 1541446234
+/
+ns513008.ip-167-114-157.net
+0 1 1 21859 1 1541104373
+/
+195.208.142.131
+0 1 1 21783 1 1541241699
+/
+a2.janmatiaska.nr.cust.gts.sk
+0 1 1 21783 1 1541103442
+/
+88.204.216.142
+0 1 1 21783 1 1541054296
+/
+iclide.westwisearch.net
+0 1 1 0 1 1541104248
+/
+141.105.64.228
+0 1 1 21783 1 1541385721
+/
+120.79.154.208
+0 554 534 5869883 1 1541405324
+/phpmyadmin/
+crawl-66-249-79-98.googlebot.com
+0 7 6 421467 0 0
+-
+crawl-66-249-79-77.googlebot.com
+0 3 2 45000 2 1541257052
+/
+crawl-66-249-79-55.googlebot.com
+0 3 2 44848 2 1541281730
+/
+177-188-104-60.dsl.telesp.net.br
+0 1 1 21783 1 1541037566
+/
+125.64.94.197
+0 1 1 21783 1 1541037741
+/
+min-li-de-10-31-2685-c-prod.binaryedge.ninja
+0 1 1 21859 1 1541090946
+/
+124.248.185.171
+0 1 1 21783 1 1541308210
+/
+correo.aneaes.gov.py
+0 6 0 6784 1 1541385405
+-
+ip22.ppp123.glazov.net
+0 1 1 21783 1 1541161268
+/
+rrcs-50-75-208-100.nyc.biz.rr.com
+0 1 1 21783 1 1541429348
+/
+ip-176-193-197-69.bb.netbynet.ru
+0 1 1 21783 1 1541449153
+/
+213-89-94-138.networkdigital.net.br
+0 1 1 21783 1 1541281013
+/
+177.134.233.139.dynamic.adsl.gvt.net.br
+0 1 1 21783 1 1541049512
+/
+msnbot-157-55-39-29.search.msn.com
+0 1 0 1130 0 0
+-
+mail.hospitalviladaserra.com.br
+0 1 1 21783 1 1541212223
+/
+house.census.shodan.io
+0 5 1 26303 1 1541189635
+/
+201-43-114-225.dsl.telesp.net.br
+0 1 1 21783 1 1541345111
+/
+host-185-117-118-148.creanova.org
+0 1 1 0 1 1541048794
+/
+138-118-84-244.inbnet.com.br
+0 1 1 21783 1 1541265007
+/
+103.113.105.133
+0 1 1 21783 1 1541109874
+/
+vps02.snthostings.com
+0 13 1 35419 1 1541421588
+-
+175.141.19.90
+0 1 1 21783 1 1541067373
+/
+189-18-87-112.dsl.telesp.net.br
+0 2 2 43566 1 1541117871
+/
+177-103-119-161.dsl.telesp.net.br
+0 1 1 21783 1 1541172102
+/
+82.151.113.85
+0 1 1 21783 1 1541242430
+/
+llamentin-656-1-13-18.w81-248.abo.wanadoo.fr
+0 1 1 21859 1 1541179026
+/
+worker-11.sfj.corp.censys.io
+0 1 1 21783 1 1541081244
+/
+152-254-243-45.user.vivozap.com.br
+0 1 1 21783 1 1541354632
+/
+crawl-66-249-79-79.googlebot.com
+0 4 3 66935 3 1541306257
+/
+201-26-69-189.dsl.telesp.net.br
+0 1 1 21783 1 1541130631
+/
+128-108-144-198.customer.rigidtech.net
+0 1 1 21783 1 1541350023
+/
+124.88.98.98
+0 1 0 226 1 1541466027
+-
+host-185-117-118-146.creanova.org
+0 1 1 0 1 1541339865
+/
+160.238.208.234
+0 1 1 21783 1 1541186890
+/
+61-216-152-133.hinet-ip.hinet.net
+0 4 0 226 4 1541462936
+-
+186-211-108-114.gegnet.com.br
+0 1 1 21783 1 1541167149
+/
+106.5.53.179.d.dyn.claro.net.do
+0 1 0 226 1 1541415683
+-
+ns502109.ip-192-99-35.net
+0 2 0 2260 1 1541207793
+-
+host184-242-177-94.static.arubacloud.fr
+0 1 0 1130 0 0
+-
+69.171.251.15
+0 1 1 1745939 0 0
+-
+77-234-68-136.pool.digikabel.hu
+0 3 3 65577 1 1541181185
+/
+238.68.10.185.ro.ovo.sc
+0 125 2 140899 1 1541160185
+-
+103.252.76.190
+0 1 1 21859 1 1541214214
+/
+38-141-44-42.reverse.wowrack.com
+0 1 0 226 1 1541345252
+/
+191-13-2-245.user.vivozap.com.br
+0 1 1 21783 1 1541343420
+/
+163-151-150-201.halleytelecom.com.br
+0 1 1 21783 1 1541379865
+/
+92.55.124.46
+0 1 1 21783 1 1541115323
+/
+static-ip-adsl-200.58.180.154.cotas.com.bo
+0 1 1 21783 1 1541334603
+/
+201-76-124-60.gtctelecom.net.br
+0 1 1 21783 1 1541162105
+/
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com
+0 3 3 65805 3 1541468862
+/
+36.89.8.220
+0 1 1 21783 1 1541160535
+/
+183.232.77.73
+0 673 562 6290889 1 1541456939
+/phpmyadmin/
+187.95.16.31.netjacarei.nipcable.com
+0 1 1 21783 1 1541341583
+/
+worker-02.sfj.corp.censys.io
+0 1 1 21783 1 1541364315
+/
+141.186.194.35.bc.googleusercontent.com
+0 1 1 21783 1 1541339274
+/
+54.38.213.78
+0 6 0 6784 1 1541033407
+-
+104.248.4.19
+0 1 1 21783 1 1541409874
+/
+crawl-66-249-79-52.googlebot.com
+0 1 0 1130 0 0
+-
+185.53.91.24
+0 10 0 11591 0 0
+-
+host-185-117-118-147.creanova.org
+0 1 0 1130 0 0
+-
+189-47-60-164.dsl.telesp.net.br
+0 1 1 21783 1 1541463920
+/
+178-73-215-171-static.glesys.net
+0 1 1 21859 1 1541355364
+/
+carbon093.a.ahrefs.com
+0 1 1 21859 1 1541068234
+/
+28.213.237.35.bc.googleusercontent.com
+0 1 1 21783 1 1541156505
+/
+185.222.211.18
+0 1 0 226 1 1541464726
+/
+119.92.14.5.static.pldt.net
+0 21 20 4747595 1 1541466270
+/
+71.6.232.2
+0 1 1 21783 1 1541116617
+/
+host201-96-61-217.static.arubacloud.com
+0 1 0 1130 1 1541106402
+-
+79.127.13.235
+0 1 1 21783 1 1541319465
+/
+185.131.190.71
+0 1 1 21783 1 1541403056
+/
+87-248-182-92.starnet.md
+0 1 1 21783 1 1541239504
+/
+researchscan20.comsys.rwth-aachen.de
+0 1 1 21935 1 1541368142
+/
+210-86-68-78-adsl.sparkbb.co.nz
+0 2 0 452 1 1541377042
+-
+static-102-218-226-186.8bit.net.br
+0 1 1 21783 1 1541415159
+/
+39.98.61.115
+0 1 1 21935 1 1541455845
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+139.199.104.191
+0 612 531 5302453 1 1541464058
+/phpmyadmin/
+124.88.98.98
+0 1 0 226 1 1541466027
+-
+61-216-152-133.hinet-ip.hinet.net
+0 1 0 0 1 1541462936
+-
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com
+0 1 1 21935 1 1541468862
+/
+189-47-60-164.dsl.telesp.net.br
+0 1 1 21783 1 1541463920
+/
+185.222.211.18
+0 1 0 226 1 1541464726
+/
+119.92.14.5.static.pldt.net
+0 21 20 4747595 1 1541466270
+/
+# End Of Table - sites (daily)
+# -referrers- 
+google.com
+0 1
+https://brandnewblogs.com/blogs-may-2018/
+0 3
+http://b1gsouthluzon.com/assets/vendor/fontawesome-free/css/all.min.css
+0 2
+https://www.google.com/
+0 1
+- (Direct Request)
+0 5413
+http://www.b1gsouthluzon.com/assets/vendor/fontawesome-free/css/all.min.css
+0 4
+http://185.201.9.153/
+0 2
+http://www.b1gsouthluzon.com/
+0 33
+http://cilbc-onlline.com/
+0 1
+http://www.b1gsouthluzon.com/assets/css/grayscale.css
+0 4
+http://www.cilbc-onlline.com/
+0 13
+http://b1gsouthluzon.com/assets/css/grayscale.css
+0 2
+http://b1gsouthluzon.com/
+0 16
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 7
+Dark
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 26
+HTTP Banner Detection (https://security.ipip.net)
+0 4
+Sefa
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 694
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 531
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 166
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 3
+Mozilla/5.0 (Windows NT 6.1; en-US; rv:1.9.0.20) Gecko/20140123 Firefox/36.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 534
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 50
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 531
+Mozilla/5.0 Gecko/20100101
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:28.0) Gecko/20100101 Firefox/45.0
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 17
+PxBroker/0.3.1/7902
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 9
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 19
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 35
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+0 3
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.8.131 Version/11.10
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12sns; +http://researchscan.comsys.rwth-aachen.de)
+0 2
+python-requests/2.10.0
+0 1
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t13rl; +http://researchscan.comsys.rwth-aachen.de)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0)
+0 166
+Mozilla
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 137
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 23
+Scrapy/1.5.1 (+https://scrapy.org)
+0 1
+Mozilla/5.0 zgrab/0.x
+0 10
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 6
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-G570Y Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Sa
+0 43
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0)
+0 43
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 1
+python-requests/2.20.0
+0 10
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 12
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.3
+0 13
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12ca; +http://researchscan.comsys.rwth-aachen.de)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 25
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 5
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1062
+Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; DomainSONOCrawler/0.1; +http://domainsono.com)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 31
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36
+0 2
+Gemini/2.0
+0 1
+libwww-perl/6.26
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 45
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+0 18
+Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/55.0.3090.100 Safari/537.32
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 41
+Mozilla/5.0(WindowsNT6.1;rv:31.0)Gecko/20100101Firefox/31.0
+0 1
+ZmEu
+0 254
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+0 42
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 18
+curl/7.47.0
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0)
+0 561
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

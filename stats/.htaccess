@@ -1,0 +1,7 @@
+AuthName "b1gsouthluzon.com statistics"
+AuthType Basic
+AuthUserFile /home/b1gsouthluzon/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>
